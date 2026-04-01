@@ -1,4 +1,4 @@
-# React + Vite = Tic-tac-toe
+# Tic-Tac-Toe
 
 I had to do this project. Who am I to ignore it?
 
